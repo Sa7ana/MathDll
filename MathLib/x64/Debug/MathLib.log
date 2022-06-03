@@ -1,0 +1,31 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLib.cpp
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(12,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(13,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(147,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(161,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(176,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(186,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(202,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(252,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(278,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(292,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(303,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(305,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(347,33): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(400,33): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(479,22): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(480,25): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\2 курс\C++\MathLib1.0\MathLib\MathLib\MathLib.cpp(524,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+     Создается библиотека D:\2 курс\C++\MathLib1.0\MathLib\x64\Debug\MathLib.lib и объект D:\2 курс\C++\MathLib1.0\MathLib\x64\Debug\MathLib.exp
+  MathLib.vcxproj -> D:\2 курс\C++\MathLib1.0\MathLib\x64\Debug\MathLib.dll
