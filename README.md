@@ -6,7 +6,9 @@
   1. [Matrix](#Matrix)
   2. [SetMij](#SetMij)
   3. [ReadBin](#ReadBin)
-
+  4. [WriteBin](#WriteBin)
+  5. [Hadamard](#Hadamard)
+  6. [Det](#Det)
 
 ## Разделительная черта
 
@@ -51,4 +53,19 @@
 # ReadBin
   + ReadBin(const char* fname)
   
-Чтение матрицы из бинарного файла
+Чтение матрицы из бинарного файла с именем fname
+  
+# WriteBin
+  + ReadBin(const char* fname)
+  
+Запись матрицы в бинарный файл с именем fname
+
+# Hadamard
+  + N1.Hadamard(Matrix N2)
+Произведение Адамара (N1 * N2)
+
+# Det
+  + Det(Matrix M)
+Определитель матрицы M
+  
+
