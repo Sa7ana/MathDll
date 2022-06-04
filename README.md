@@ -4,9 +4,10 @@
   
 ## [Класс Matrix](#Класс-Matrix)
 1. [Конструкторы](#Конструкторы)
-    1.[Matrix(int n)](#Matrix(int n))
-    2.[Matrix(int n, int m)]
-2. [Matrix](#Matrix)
+
+    1.[Matrix(int n)](#Matrix(int-n))
+
+    2.[Matrix(int n, int m)](#Matrix(int-n,-int-m))
 3. [SetMij](#SetMij)
 4. [ReadBin](#ReadBin)
 5. [WriteBin](#WriteBin)
@@ -15,15 +16,13 @@
 
 ## Класс Matrix
 
-## Конструкторы
+### Конструкторы
 
-## Matrix(int n)
-+ Matrix(int n, int m) 
-
-  Создание матрицы размера n на m
-+ Matrix(int n)
-
+#### Matrix(int n)
 Создание квадратной матрицы размера n на n
+
+#### Matrix(int n, int m)
+  Создание матрицы размера n на m
 
 + Matrix(initializer_list<double> list)
 
