@@ -18,10 +18,10 @@
 
 ### Конструкторы
 
-#### Matrix(int n)
+### Matrix(int n)
 Создание квадратной матрицы размера n на n
 
-#### Matrix(int n, int m)
+### Matrix(int n, int m)
   Создание матрицы размера n на m
 
 + Matrix(initializer_list<double> list)
