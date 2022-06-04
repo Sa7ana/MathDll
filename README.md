@@ -2,18 +2,22 @@
 
   Эта библиотека создана для работы с матрицами
   
-  ## Функции
-  1. [Matrix](#Matrix)
-  2. [SetMij](#SetMij)
-  3. [ReadBin](#ReadBin)
-  4. [WriteBin](#WriteBin)
-  5. [Hadamard](#Hadamard)
-  6. [Det](#Det)
+## [Класс Matrix](#Класс-Matrix)
+1. [Конструкторы](#Конструкторы)
+    1.[Matrix(int n)](#Matrix(int n))
+    2.[Matrix(int n, int m)]
+2. [Matrix](#Matrix)
+3. [SetMij](#SetMij)
+4. [ReadBin](#ReadBin)
+5. [WriteBin](#WriteBin)
+6. [Hadamard](#Hadamard)
+7. [Det](#Det)
 
-## Разделительная черта
+## Класс Matrix
 
+## Конструкторы
 
-## Matrix
+## Matrix(int n)
 + Matrix(int n, int m) 
 
   Создание матрицы размера n на m
